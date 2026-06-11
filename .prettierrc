@@ -6,7 +6,7 @@
     "arrowParens": "avoid",
     "overrides": [
         {
-            "files": ["*.yaml", "*.yml"],
+            "files": ["*.config.ts", "*.config.js", "*.config.mjs", "*.json", "*.yaml", "*.yml"],
             "options": {
                 "tabWidth": 2
             }
